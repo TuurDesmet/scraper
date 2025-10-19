@@ -1,1 +1,1 @@
-# irres-scraper
+# scraper
